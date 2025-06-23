@@ -1,0 +1,1 @@
+# hayato-ban-check
